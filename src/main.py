@@ -1,6 +1,6 @@
 '''
 Deep Time Series Forecasting Benchmarking Tool
-Author: Yuya Jeremy Ong (yjo5006@ibm.com)
+Author: Yuya Jeremy Ong (yuyajeremyong@gmail.com)
 '''
 from __future__ import print_function
 import os
